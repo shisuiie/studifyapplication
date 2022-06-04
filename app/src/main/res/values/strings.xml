@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">studifyapplication</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="or">OR</string>
+    <string name="orr">OR</string>
+    <string name="orrr">OR</string>
+</resources>
